@@ -42,7 +42,8 @@ The required input files are located in `database/`:
 ```text
 database/
 ├── drug_feature.npy
-└── drug_protein_log2FC.csv
+├── drug_protein_log2FC.csv
+└── string_ppi_graph.pt
 ```
 
 ## Run
